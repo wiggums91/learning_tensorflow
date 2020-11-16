@@ -1,4 +1,4 @@
-#Goal of program to create a neural network with 3 convolutional layers to learn to recognise cats v dogs from kaggle dataset
+#Goal of program to create a neural network with 3 convolutional layers to learn to recognise images of cats v dogs from kaggle dataset
 #Imports
 import os
 import zipfile
